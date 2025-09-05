@@ -1,0 +1,1 @@
+print("hæ þetta er goggi mega max")
